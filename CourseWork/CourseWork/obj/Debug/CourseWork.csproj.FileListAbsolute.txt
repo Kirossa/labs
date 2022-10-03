@@ -1,0 +1,110 @@
+E:\ФФЕКС\Помощь\Влад курсач Пономарев c#\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+E:\ФФЕКС\Помощь\Влад курсач Пономарев c#\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+E:\ФФЕКС\Помощь\Влад курсач Пономарев c#\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+E:\ФФЕКС\Помощь\Влад курсач Пономарев c#\CourseWork\CourseWork\obj\Debug\CourseWork.ChildForm.resources
+E:\ФФЕКС\Помощь\Влад курсач Пономарев c#\CourseWork\CourseWork\obj\Debug\CourseWork.MainForm.resources
+E:\ФФЕКС\Помощь\Влад курсач Пономарев c#\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+E:\ФФЕКС\Помощь\Влад курсач Пономарев c#\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+E:\ФФЕКС\Помощь\Влад курсач Пономарев c#\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+E:\ФФЕКС\Помощь\Влад курсач Пономарев c#\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+E:\ФФЕКС\Помощь\Влад курсач Пономарев c#\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+E:\ФФЕКС\Помощь\Влад курсач Пономарев c#\CourseWork\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Анна Конева 14\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Анна Конева 14\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Анна Конева 14\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Анна Конева 14\CourseWork\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Анна Конева 14\CourseWork\CourseWork\obj\Debug\CourseWork.ChildForm.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Анна Конева 14\CourseWork\CourseWork\obj\Debug\CourseWork.MainForm.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Анна Конева 14\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Анна Конева 14\CourseWork\CourseWork\obj\Debug\CourseWork.ShowImageForm.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Анна Конева 14\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Анна Конева 14\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Анна Конева 14\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Анна Конева 14\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Кирилл Дижур 9, 23\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Кирилл Дижур 9, 23\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Кирилл Дижур 9, 23\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Кирилл Дижур 9, 23\CourseWork\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Кирилл Дижур 9, 23\CourseWork\CourseWork\obj\Debug\CourseWork.ChildForm.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Кирилл Дижур 9, 23\CourseWork\CourseWork\obj\Debug\CourseWork.MainForm.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Кирилл Дижур 9, 23\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Кирилл Дижур 9, 23\CourseWork\CourseWork\obj\Debug\CourseWork.ShowImageForm.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Кирилл Дижур 9, 23\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Кирилл Дижур 9, 23\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Кирилл Дижур 9, 23\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\Кирилл Дижур 9, 23\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\3. Кирилл Дижур 9, 23 (23.05.2018) [500]\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\3. Кирилл Дижур 9, 23 (23.05.2018) [500]\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\3. Кирилл Дижур 9, 23 (23.05.2018) [500]\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\3. Кирилл Дижур 9, 23 (23.05.2018) [500]\CourseWork\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\3. Кирилл Дижур 9, 23 (23.05.2018) [500]\CourseWork\CourseWork\obj\Debug\CourseWork.ChildForm.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\3. Кирилл Дижур 9, 23 (23.05.2018) [500]\CourseWork\CourseWork\obj\Debug\CourseWork.MainForm.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\3. Кирилл Дижур 9, 23 (23.05.2018) [500]\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\3. Кирилл Дижур 9, 23 (23.05.2018) [500]\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\3. Кирилл Дижур 9, 23 (23.05.2018) [500]\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\3. Кирилл Дижур 9, 23 (23.05.2018) [500]\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\3. Кирилл Дижур 9, 23 (23.05.2018) [500]\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\3. Кирилл Дижур 9, 23 (23.05.2018) [500]\CourseWork\CourseWork\obj\Debug\CourseWork.ImageChangeForm.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\3. Кирилл Дижур 9, 23 (23.05.2018) [500]\CourseWork\CourseWork\obj\Debug\CourseWork.ImageNoiseForm.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\5. Богдан Меткий 8, 19 (24.05.2018) [500]\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\5. Богдан Меткий 8, 19 (24.05.2018) [500]\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\5. Богдан Меткий 8, 19 (24.05.2018) [500]\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\5. Богдан Меткий 8, 19 (24.05.2018) [500]\CourseWork\CourseWork\obj\Debug\CourseWork.ChildForm.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\5. Богдан Меткий 8, 19 (24.05.2018) [500]\CourseWork\CourseWork\obj\Debug\CourseWork.MainForm.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\5. Богдан Меткий 8, 19 (24.05.2018) [500]\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\5. Богдан Меткий 8, 19 (24.05.2018) [500]\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\5. Богдан Меткий 8, 19 (24.05.2018) [500]\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\5. Богдан Меткий 8, 19 (24.05.2018) [500]\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\5. Богдан Меткий 8, 19 (24.05.2018) [500]\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\5. Богдан Меткий 8, 19 (24.05.2018) [500]\CourseWork\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\5. Богдан Меткий 8, 19 (24.05.2018) [500]\CourseWork\CourseWork\obj\Debug\CourseWork.SwapColorsForm.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\7. Денис Селиванов 11, 22 (26.05.2018) [600]\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\7. Денис Селиванов 11, 22 (26.05.2018) [600]\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\7. Денис Селиванов 11, 22 (26.05.2018) [600]\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\7. Денис Селиванов 11, 22 (26.05.2018) [600]\CourseWork\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\7. Денис Селиванов 11, 22 (26.05.2018) [600]\CourseWork\CourseWork\obj\Debug\CourseWork.ChildForm.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\7. Денис Селиванов 11, 22 (26.05.2018) [600]\CourseWork\CourseWork\obj\Debug\CourseWork.MainForm.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\7. Денис Селиванов 11, 22 (26.05.2018) [600]\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\7. Денис Селиванов 11, 22 (26.05.2018) [600]\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\7. Денис Селиванов 11, 22 (26.05.2018) [600]\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\7. Денис Селиванов 11, 22 (26.05.2018) [600]\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\7. Денис Селиванов 11, 22 (26.05.2018) [600]\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\7. Денис Селиванов 11, 22 (26.05.2018) [600]\CourseWork\CourseWork\obj\Debug\CourseWork.ShowPixelForm.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\7. Денис Селиванов 11, 22 (26.05.2018) [600]\CourseWork\CourseWork\obj\Debug\CourseWork.ShowPixelParamForm.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\10. Никита Межуев 7, 18 (28.05.2018) [700]\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\10. Никита Межуев 7, 18 (28.05.2018) [700]\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\10. Никита Межуев 7, 18 (28.05.2018) [700]\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\10. Никита Межуев 7, 18 (28.05.2018) [700]\CourseWork\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\10. Никита Межуев 7, 18 (28.05.2018) [700]\CourseWork\CourseWork\obj\Debug\CourseWork.ChildForm.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\10. Никита Межуев 7, 18 (28.05.2018) [700]\CourseWork\CourseWork\obj\Debug\CourseWork.MainForm.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\10. Никита Межуев 7, 18 (28.05.2018) [700]\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\10. Никита Межуев 7, 18 (28.05.2018) [700]\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\10. Никита Межуев 7, 18 (28.05.2018) [700]\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\10. Никита Межуев 7, 18 (28.05.2018) [700]\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\10. Никита Межуев 7, 18 (28.05.2018) [700]\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\10. Никита Межуев 7, 18 (28.05.2018) [700] +\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\10. Никита Межуев 7, 18 (28.05.2018) [700] +\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\10. Никита Межуев 7, 18 (28.05.2018) [700] +\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\10. Никита Межуев 7, 18 (28.05.2018) [700] +\CourseWork\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\10. Никита Межуев 7, 18 (28.05.2018) [700] +\CourseWork\CourseWork\obj\Debug\CourseWork.ChildForm.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\10. Никита Межуев 7, 18 (28.05.2018) [700] +\CourseWork\CourseWork\obj\Debug\CourseWork.MainForm.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\10. Никита Межуев 7, 18 (28.05.2018) [700] +\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\10. Никита Межуев 7, 18 (28.05.2018) [700] +\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\10. Никита Межуев 7, 18 (28.05.2018) [700] +\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\10. Никита Межуев 7, 18 (28.05.2018) [700] +\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+E:\ФФЕКС\Помощь\Курсачи c# 2 курс 2 семестр\10. Никита Межуев 7, 18 (28.05.2018) [700] +\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+D:\Рабочий стол\Универ\2 курс\Курсач 2й сем\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+D:\Рабочий стол\Универ\2 курс\Курсач 2й сем\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+D:\Рабочий стол\Универ\2 курс\Курсач 2й сем\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\_________xoxo\uni\Курсач 2й сем\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\_________xoxo\uni\Курсач 2й сем\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\_________xoxo\uni\Курсач 2й сем\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\_________xoxo\uni\Курсач 2й сем\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\_________xoxo\uni\Курсач 2й сем\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.SuggestedBindingRedirects.cache
+C:\_________xoxo\uni\Курсач 2й сем\CourseWork\CourseWork\obj\Debug\CourseWork.ChildForm.resources
+C:\_________xoxo\uni\Курсач 2й сем\CourseWork\CourseWork\obj\Debug\CourseWork.MainForm.resources
+C:\_________xoxo\uni\Курсач 2й сем\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\_________xoxo\uni\Курсач 2й сем\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\_________xoxo\uni\Курсач 2й сем\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\_________xoxo\uni\Курсач 2й сем\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\_________xoxo\uni\Курсач 2й сем\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
